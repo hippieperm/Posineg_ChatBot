@@ -6,6 +6,8 @@
 
 • 프로젝트 시작일: 9월 20일
 
+![image](https://github.com/user-attachments/assets/8a0cf539-358e-4cae-8c4e-6854e85f61a7)
+
 
 # 주식 거래 시뮬레이션 프로젝트
 
